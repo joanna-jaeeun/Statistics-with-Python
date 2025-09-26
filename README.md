@@ -3,5 +3,6 @@
 This is a self-study of Statistics using Python.
 
 ### Resources
-- Coursera: Probability and Statistics for Data Science
+- Coursera: Probability & Statistics for Machine Learning & Data Science
+  [link text]([URL](https://www.coursera.org/learn/machine-learning-probability-and-statistics))
 - Book: Python Statistical Analysis
